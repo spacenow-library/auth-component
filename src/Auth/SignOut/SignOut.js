@@ -37,4 +37,4 @@ class SignOut extends React.Component {
 
 }
 
-export default (SignOut);
+export default SignOut;
